@@ -1,4 +1,11 @@
+# common files
 *.iml
 target/*
 src/test/*
 .idea/*
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
