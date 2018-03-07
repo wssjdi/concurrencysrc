@@ -9,3 +9,4 @@ src/test/*
 *.jar
 *.war
 *.ear
+/target/
