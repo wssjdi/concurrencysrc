@@ -6,7 +6,7 @@ import java.util.concurrent.Future;
 import java.util.concurrent.RecursiveTask;
 
 /**
- * Created by rhwayfun on 16-3-19.
+ * Created by wssjdi@gmail.com
  */
 public class CountTask extends RecursiveTask<Integer> {
     //阈值

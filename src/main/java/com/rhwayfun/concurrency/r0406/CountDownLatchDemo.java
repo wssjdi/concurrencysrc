@@ -6,7 +6,7 @@ import java.util.Date;
 import java.util.concurrent.CountDownLatch;
 
 /**
- * Created by rhwayfun on 16-4-6.
+ * Created by wssjdi@gmail.com
  */
 public class CountDownLatchDemo {
 

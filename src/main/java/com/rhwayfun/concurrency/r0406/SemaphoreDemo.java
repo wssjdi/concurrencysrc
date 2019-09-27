@@ -5,7 +5,7 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.Semaphore;
 
 /**
- * Created by rhwayfun on 16-4-6.
+ * Created by wssjdi@gmail.com
  */
 public class SemaphoreDemo {
 

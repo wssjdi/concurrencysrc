@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Created by rhwayfun on 16-4-8.
+ * Created by wssjdi@gmail.com
  */
 public class DemoThreadLocal {
 

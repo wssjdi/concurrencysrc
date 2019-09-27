@@ -8,7 +8,7 @@ import java.util.List;
 import java.util.concurrent.*;
 
 /**
- * Created by rhwayfun on 16-4-10.
+ * Created by wssjdi@gmail.com
  */
 public class DisplayProductInfoWithExecutorService {
 

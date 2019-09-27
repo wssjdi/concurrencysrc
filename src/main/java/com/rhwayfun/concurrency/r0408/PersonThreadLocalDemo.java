@@ -7,7 +7,7 @@ import java.util.Random;
 import java.util.concurrent.TimeUnit;
 
 /**
- * Created by rhwayfun on 16-4-8.
+ * Created by wssjdi@gmail.com
  */
 public class PersonThreadLocalDemo {
 

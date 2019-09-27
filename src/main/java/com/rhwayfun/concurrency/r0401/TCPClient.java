@@ -4,7 +4,7 @@ import java.io.*;
 import java.net.Socket;
 
 /**
- * Created by rhwayfun on 16-3-23.
+ * Created by wssjdi@gmail.com
  */
 public class TCPClient {
     private static boolean isshutdown = false;

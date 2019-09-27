@@ -10,7 +10,7 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.atomic.AtomicLong;
 
 /**
- * Created by rhwayfun on 16-4-8.
+ * Created by wssjdi@gmail.com
  */
 public class CopyOnWriteArrayListDdemo {
 

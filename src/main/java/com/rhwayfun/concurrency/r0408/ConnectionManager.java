@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 /**
- * Created by rhwayfun on 16-4-8.
+ * Created by wssjdi@gmail.com
  */
 public class ConnectionManager {
 

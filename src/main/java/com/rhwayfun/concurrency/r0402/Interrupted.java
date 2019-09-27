@@ -1,21 +1,10 @@
-/* 
- * Copyright: 2018 www.chebada.com Inc. All rights reserved. 
- * 注意：本内容仅限于车巴达公司内部传阅，禁止外泄以及用于其他的商业目的 
- *
- * @Project: concurrencysrc 
- * @File: Interrupted.java 
- * @Package: com.rhwayfun.concurrency.r0402
- * @Date: 2018年3月7日
- * @Author:syj11892@ly.com 
- *
- */
 package com.rhwayfun.concurrency.r0402;
 
 import java.util.concurrent.TimeUnit;
 
 /** 
  * @Description 
- * @author dqc@chebada.com
+ * @author wssjdi@gmail.com
  * @date 2018年3月7日 下午5:05:54 
  * @version V1.0.0
  */

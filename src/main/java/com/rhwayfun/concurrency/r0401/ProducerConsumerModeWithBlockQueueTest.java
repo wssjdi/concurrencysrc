@@ -3,7 +3,7 @@ package com.rhwayfun.concurrency.r0401;
 import java.util.concurrent.*;
 
 /**
- * Created by rhwayfun on 16-4-4.
+ * Created by wssjdi@gmail.com
  */
 public class ProducerConsumerModeWithBlockQueueTest {
 

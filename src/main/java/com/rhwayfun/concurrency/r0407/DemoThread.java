@@ -3,7 +3,7 @@ package com.rhwayfun.concurrency.r0407;
 import java.util.concurrent.BlockingQueue;
 
 /**
- * Created by rhwayfun on 16-4-7.
+ * Created by wssjdi@gmail.com
  */
 public class DemoThread implements Runnable {
 

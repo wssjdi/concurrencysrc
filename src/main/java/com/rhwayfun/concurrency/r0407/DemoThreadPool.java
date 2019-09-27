@@ -8,7 +8,7 @@ import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.atomic.AtomicLong;
 
 /**
- * Created by rhwayfun on 16-4-7.
+ * Created by wssjdi@gmail.com
  */
 public class DemoThreadPool<Job extends Runnable> implements ThreadPool<Job> {
 

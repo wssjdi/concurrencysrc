@@ -3,7 +3,7 @@ package com.rhwayfun.concurrency.r0405;
 import java.util.concurrent.atomic.AtomicIntegerArray;
 
 /**
- * Created by rhwayfun on 16-4-5.
+ * Created by wssjdi@gmail.com
  */
 public class AtomicIntegerArrayDemo {
 

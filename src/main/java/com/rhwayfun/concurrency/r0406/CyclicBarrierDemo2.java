@@ -8,7 +8,7 @@ import java.util.Random;
 import java.util.concurrent.*;
 
 /**
- * Created by rhwayfun on 16-4-6.
+ * Created by wssjdi@gmail.com
  */
 public class CyclicBarrierDemo2 implements Runnable{
 

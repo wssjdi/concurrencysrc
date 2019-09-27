@@ -1,7 +1,7 @@
 package com.rhwayfun.concurrency.r0408;
 
 /**
- * Created by rhwayfun on 16-4-8.
+ * Created by wssjdi@gmail.com
  */
 public class StringDemo {
 

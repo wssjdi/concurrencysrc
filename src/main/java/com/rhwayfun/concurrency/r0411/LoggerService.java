@@ -9,7 +9,7 @@ import java.util.concurrent.LinkedBlockingQueue;
 import java.util.concurrent.TimeUnit;
 
 /**
- * Created by rhwayfun on 16-4-11.
+ * Created by wssjdi@gmail.com
  */
 public class LoggerService {
     // 存放日志消息的阻塞队列

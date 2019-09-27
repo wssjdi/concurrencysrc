@@ -8,7 +8,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
 /**
- * Created by rhwayfun on 16-4-7.
+ * Created by wssjdi@gmail.com
  */
 public class ExchangerDemo {
 

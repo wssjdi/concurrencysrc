@@ -6,7 +6,7 @@ import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;
 
 /**
- * Created by rhwayfun on 16-3-18.
+ * Created by wssjdi@gmail.com
  */
 public class TwinsLock implements Lock {
     private static class Sync extends AbstractQueuedSynchronizer{

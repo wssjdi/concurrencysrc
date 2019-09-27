@@ -6,7 +6,7 @@ import java.util.concurrent.LinkedBlockingQueue;
 import java.util.concurrent.TimeUnit;
 
 /**
- * Created by rhwayfun on 16-4-11.
+ * Created by wssjdi@gmail.com
  */
 public class BrokenShutdownThread extends Thread {
 
